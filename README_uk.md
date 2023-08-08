@@ -1,4 +1,4 @@
-<H1><b>Developing Compilers for Domain Specufic Languages</b></H1>
+<H1><b>Developing Compilers for Domain Specific Languages</b></H1>
 
 This repository contains educational materials from the course "Development of compilers for subject-oriented languages", which is offered to students of the speciality 122 Computer Science, who study under the Bachelor's Programme "Theoretical and applied informatics" at the Mathematics and Computer Science School of V.N. Karazin Kharkiv National University.
 
