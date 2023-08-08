@@ -1,5 +1,5 @@
 <H1><b>Розробка компіляторів для предметно-орієнтованих мов<br/>
-</b></H1>
+Developing Compilers for Domain Specufic Languages</b></H1>
 
 Educational materials are available in both Ukrainian and English languages.
 The suffix of the file name indicates in what language the file is.
