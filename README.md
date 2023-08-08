@@ -1,4 +1,4 @@
-<H1><b>Developing Compilers for Domain Specufuc Languages</b></H1>
+<H1><b>Developing Compilers for Domain Specufic Languages</b></H1>
 
 This repository contains problems for solving for studying course Domain-Specific Language
 
