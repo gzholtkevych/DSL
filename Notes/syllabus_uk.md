@@ -1,4 +1,4 @@
-<H1><b>Course syllabus</b></H1>
+<H1><b>Course Content</b></H1>
 
 The following topics are discussed in the course.
 1. Introduction to Domain-Specific Languages (DSL)
@@ -31,3 +31,11 @@ The following topics are discussed in the course.
 5. We build a lexical analyzer
 - How to synthesize finite state automata for recognizing language tokens?
 - How to integrate finite state automata for token recognition into a lexical analyzer?
+6. We build a parser
+- What is parsing by recursive descent?
+- Which is grammar suitable for parsing by recursive descent?
+- How to build a grammar suitable for parsing by recursive descent without changing the language?
+7. We build a translator
+- What is syntax-directed translation?
+- How to build a syntax-directed translator?
+- What to do in more complicated cases?
